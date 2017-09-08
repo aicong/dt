@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	overflow:hidden;
 }
 #fh5co-header {
-  /*background: url("../images/bg27.jpg") no-repeat top center;*/
+  background: url("../images/bg27.jpg") no-repeat top center;
   height: 650px;
 }
 @media screen and (max-width: 768px) {
